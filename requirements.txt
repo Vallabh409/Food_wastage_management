@@ -1,2 +1,9 @@
-streamlit==1.29.0
-pandas==2.1.1
+
+streamlit
+pandas
+numpy
+sqlite3-binary
+sqlite3
+matplotlib
+seaborn
+sqlalchemy
